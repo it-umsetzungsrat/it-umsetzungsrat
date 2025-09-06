@@ -32,15 +32,18 @@ und [§ 4 ThürEGovG](https://landesrecht.thueringen.de/bsth/document/jlr-EGovGT
 
 ## Aktuelle Aktivitäten  
 
-Ergänzend zu den vornehmlich international ausgerichteten Aktivitäten der [EU-Business-Wallet Initiative](https://github.com/eu-business-wallet) 
-fokussiert sich der IT-Umsetzungsrat aktuell vor allem auf die **architektonische Gestaltung** und spätere konstruktive Umsetzung des 
-**[Deutschland-Stack](https://www.schleswig-holstein.de/DE/landesregierung/themen/digitalisierung/digitalisierung-zukunftsthema/_documents/impulspapier_deutschland-stack.pdf?__blob=publicationFile&v=2)** in enger Abstimmung mit den Expertinnen und Experten des [Bundesministeriums für Digitales und Staatsministerium](https://bmds.bund.de/), 
+Ergänzend zu den vornehmlich international ausgerichteten Aktivitäten im Umfel der [EU-Business-Wallet Initiative](https://github.com/eu-business-wallet) 
+fokussiert sich der IT-Umsetzungsrat aktuell vor allem auf die **architektonische Gestaltung** und später auf die konstruktive Umsetzung des 
+**[Deutschland-Stack](https://www.schleswig-holstein.de/DE/landesregierung/themen/digitalisierung/digitalisierung-zukunftsthema/_documents/impulspapier_deutschland-stack.pdf?__blob=publicationFile&v=2)** 
+in enger Abstimmung mit den Expertinnen und Experten des [Bundesministeriums für Digitales und Staatsministerium](https://bmds.bund.de/), 
 der [Föderalen IT-Kooperation](https://www.fitko.de/) und des [IT-Planungsrates](https://www.it-planungsrat.de/).
 
-![Deutschland-Stack-Skizze](/img/DE-Stack-abstrakt.svg) 
+## Gesucht: Architekten der Staatsmodernisierung (m,w,d)
 
->Beachten Sie in diesem Zusammenhang auch den **aktuellen Aufruf** zur konstruktiven
->Mitwirkung für **[Architekten der Staatsmodernisierung (m,w,d)]( )**. 
+Beachten Sie bitte in diesem Zusammenhang insbesondere auch den aktuellen Aufruf zur konstruktiven
+Mitwirkung im IT-Umsetzungsrate für **[Architekten der Staatsmodernisierung (m,w,d)]( )**. 
+
+![Deutschland-Stack-Skizze](/img/DE-Stack-abstrakt.svg) 
 
 Wir freuen uns bereits jetzt auf den Austausch mit Ihnen!    
 
