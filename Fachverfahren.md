@@ -9,17 +9,17 @@ rund **624.810.395,58 €** aus. Die Angebotsfrist für die BVA-spezifische RV e
 die RV für IT-Dienstleistungen für die Bundesverwaltung in den Losen 1 bis 5 enden am **23.09.2025**. 
 
 >Kontaktieren Sie uns gerne per [E-Mail](mailto:it-ur@eid.as), falls Sie eine **persönliche Meinung**
->zu diesen Vergabeverfahren haben und/oder an den der hier vermutlich bald praktizierten Digitalisierung und 
+>zu diesen Vergabeverfahren haben und/oder an der hier vermutlich bald effizient praktizierten Digitalisierung und 
 >Staatsmodernisierung **konstruktiv mitwirken** möchten.
 
 | Bezeichnung                                                                                                                                                             | Geschäftszeichen           | Wert                 |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |----------------------------|----------------------|
 | [RV IT-Leistungen zu Fachverfahren des BVA](https://www.evergabe-online.de/tenderdetails.html?id=790456)                                                                | ZIB 21.12 - 0843/21/VV : 1 | 13.740.213,30 €      |
-| [Rahmenvereinbarung IT Dienstleistungen - Los 1 - Beratung Architektur, Entwicklung von Softwarestandards](https://www.evergabe-online.de/tenderdetails.html?id=787123) | ZIB 21.25 - 0171/24/VV : 1 | 133.093.014,50 €     |
-| [Rahmenvereinbarung IT Dienstleistungen - Los 2 - Beratung Konzepte](https://www.evergabe-online.de/tenderdetails.html?id=787128)                                       | ZIB 21.25 - 0171/24/VV : 2 | 136.823.046,84 €     |
-| [Rahmenvereinbarung IT Dienstleistungen - Los 3 - Entwicklung und Pflege Fachverfahren](https://www.evergabe-online.de/tenderdetails.html?id=787161)                    | ZIB 21.15 - 0171/24/VV : 3 | 213.425.346,22 €     |
-| [Rahmenvereinbarung IT Dienstleistungen - Los 4 - Entwicklung und Pflege Fachverfahren](https://www.evergabe-online.de/tenderdetails.html?id=787166)                    | ZIB 21.15 - 0171/24/VV : 4 | 85.711.968,00 €      |
-| [Rahmenvereinbarung IT Dienstleistungen - Los 5 - Entwicklung und Pflege Fachverfahren](https://www.evergabe-online.de/tenderdetails.html?id=787170)                    | ZIB 21.15 - 0171/24/VV : 5 | 42.016.806,72 €      |
+| [RV IT Dienstleistungen - Los 1 - Beratung Architektur, Entwicklung von Softwarestandards](https://www.evergabe-online.de/tenderdetails.html?id=787123) | ZIB 21.25 - 0171/24/VV : 1 | 133.093.014,50 €     |
+| [RV IT Dienstleistungen - Los 2 - Beratung Konzepte](https://www.evergabe-online.de/tenderdetails.html?id=787128)                                       | ZIB 21.25 - 0171/24/VV : 2 | 136.823.046,84 €     |
+| [RV IT Dienstleistungen - Los 3 - Entwicklung und Pflege Fachverfahren](https://www.evergabe-online.de/tenderdetails.html?id=787161)                    | ZIB 21.15 - 0171/24/VV : 3 | 213.425.346,22 €     |
+| [RV IT Dienstleistungen - Los 4 - Entwicklung und Pflege Fachverfahren](https://www.evergabe-online.de/tenderdetails.html?id=787166)                    | ZIB 21.15 - 0171/24/VV : 4 | 85.711.968,00 €      |
+| [RV IT Dienstleistungen - Los 5 - Entwicklung und Pflege Fachverfahren](https://www.evergabe-online.de/tenderdetails.html?id=787170)                    | ZIB 21.15 - 0171/24/VV : 5 | 42.016.806,72 €      |
 |                                                                                                                                                                         | **Summe**                  | **624.810.395,58 €** |
 
 ## IT-Leistungen zu Fachverfahren des BVA 
@@ -172,5 +172,6 @@ Entwicklung und Pflege Fachverfahren in [Los 3](https://www.evergabe-online.de/t
 * XÖV-Standards
 * Zentrales Log-und-Analyse-Mgmt.: Splunk oder ELK Stack
 * Zephyr-Plug-In (f. JIRA)
+
 
 
