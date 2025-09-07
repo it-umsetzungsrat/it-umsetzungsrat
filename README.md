@@ -1,13 +1,13 @@
-<img align="right" height="50" src="https://github.com/it-umsetzungsrat/it-umsetzungsrat/blob/main/img/it-ur-logo.svg"/><br/>
+<img align="right" height="80" src="https://github.com/it-umsetzungsrat/it-umsetzungsrat/blob/main/img/it-ur-logo.svg"/><br/></br>
 
-# Herzlich willkommen beim IT-Umsetzungsrat
+# Herzlich Willkommen beim IT-Umsetzungsrat
 
 ## Ziel
 
 Um die Digitalisierung der Verwaltung in Deutschland innerhalb eines geeinten Europas voranzubringen, 
-braucht es gemeinsame Werte, Prinzipien, Strategien, **offene [Standards](http://data.europa.eu/eli/reg/2012/1025/oj)**, digitale Infrastrukturen und 
-benutzerfreundliche sowie barrierefreie Lösungen nach dem jeweiligen Stand der Technik mit **offenen 
-[Schnittstellen](https://www.openapis.org/)** auf Basis von **[Open Source](https://opensource.org/osd)**. 
+braucht es gemeinsame Werte, Prinzipien, Strategien, offene [Standards](http://data.europa.eu/eli/reg/2012/1025/oj), digitale Infrastrukturen und 
+benutzerfreundliche sowie barrierefreie Lösungen nach dem jeweiligen Stand der Technik mit offenen 
+[Schnittstellen](https://www.openapis.org/) auf Basis von [Open Source](https://opensource.org/osd). 
 
 Der IT-Umsetzungsrat ist eine Initiative des [go.eIDAS e.V.](https://go.eid.as/de) zur konstruktiven 
 Unterstützung der **Digitalisierung und Staatsmodernisierung der Bundesrepublik Deutschland** unter 
@@ -33,15 +33,15 @@ und [§ 4 ThürEGovG](https://landesrecht.thueringen.de/bsth/document/jlr-EGovGT
 ## Aktuelle Aktivitäten  
 
 Ergänzend zu den vornehmlich international ausgerichteten Aktivitäten im Umfel der [EU-Business-Wallet Initiative](https://github.com/eu-business-wallet) 
-fokussiert sich der IT-Umsetzungsrat aktuell vor allem auf die **architektonische Gestaltung** und später auf die konstruktive Umsetzung des 
+fokussiert sich der IT-Umsetzungsrat aktuell vor allem auf die architektonische Ausgestaltung und später auf die konstruktive Umsetzung des 
 **[Deutschland-Stack](https://www.schleswig-holstein.de/DE/landesregierung/themen/digitalisierung/digitalisierung-zukunftsthema/_documents/impulspapier_deutschland-stack.pdf?__blob=publicationFile&v=2)** 
 in enger Abstimmung mit den Expertinnen und Experten des [Bundesministeriums für Digitales und Staatsministerium](https://bmds.bund.de/), 
 der [Föderalen IT-Kooperation](https://www.fitko.de/) und des [IT-Planungsrates](https://www.it-planungsrat.de/).
 
-## Gesucht: Architekten der Staatsmodernisierung (m,w,d)
+## Wir suchen mehrere Architekt:innen der Staatsmodernisierung (m,w,d)
 
-Beachten Sie bitte in diesem Zusammenhang insbesondere auch den aktuellen Aufruf zur konstruktiven
-Mitwirkung im IT-Umsetzungsrate für **[Architekten der Staatsmodernisierung (m,w,d)]( )**. 
+>Beachten Sie bitte in diesem Zusammenhang insbesondere auch den aktuellen Aufruf zur konstruktiven
+>Mitwirkung im IT-Umsetzungsrate für **[Architekten der Staatsmodernisierung (m,w,d)](https://github.com/it-umsetzungsrat/it-umsetzungsrat/blob/main/Architekten.md)**. 
 
 ![Deutschland-Stack-Skizze](/img/DE-Stack-abstrakt.svg) 
 
@@ -51,5 +51,5 @@ Wir freuen uns bereits jetzt auf den Austausch mit Ihnen!
 
 Nehmen Sie gerne mit uns Kontakt auf, indem Sie entweder 
 * hier ein Ticket eröffnen, 
-* uns unter https://it-umsetzungsrat.de bzw. https://go.eID.AS besuchen oder 
-* uns einfach eine E-Mail an [it-ur@eID.AS](mailto:it-ur@eID.AS) senden.
+* uns unter https://it-umsetzungsrat.de besuchen oder 
+* uns einfach eine [E-Mail](mailto:it-ur@eID.AS) senden.
