@@ -3,7 +3,7 @@
 # Mehrere Architekt:innen der Staatsmodernisierung (m,w,d)
 
 Für den tragfähigen Entwurf und die nachfolgende Umsetzung des **[Deutschland-Stack](https://www.schleswig-holstein.de/DE/landesregierung/themen/digitalisierung/digitalisierung-zukunftsthema/_documents/impulspapier_deutschland-stack.pdf?__blob=publicationFile&v=2)** 
-suchen wir zum nächstmöglichen Zeitpunkt mehrere engagierte **Architektinnen und Architekten der Staatsmodernisierung**.  
+suchen wir zum nächstmöglichen Zeitpunkt mehrere engagierte **Architektinnen und Architekten der Staatsmodernisierung (m,w,d)**.  
 
 * **Ort:** Beliebiger Ort (Remote)
 * **Bewerbungsfrist:** Es wird eine **möglichst umgehende** Interessensbekundung, gerne bis zum **17.09.2025**, erbeten.
@@ -13,7 +13,7 @@ vorausgesetzt. Mittelfristig wird eine angemessene Aufwandsentschädigung für d
 ## Hintergrund und Zielsetzung
 
 Um die Digitalisierung der Verwaltung in Deutschland innerhalb eines geeinten Europas voranzubringen, 
-braucht es gemeinsame Werte, Prinzipien, Strategien, offene [Standards](http://data.europa.eu/eli/reg/2012/1025/oj), digitale Infrastrukturen und 
+braucht es gemeinsame Werte, Prinzipien, Strategien, offene [Standards](http://data.europa.eu/eli/reg/2012/1025/oj), vertrauenswürdige digitale Infrastrukturen und 
 benutzerfreundliche sowie barrierefreie Lösungen nach dem jeweiligen Stand der Technik mit offenen 
 [Schnittstellen](https://www.openapis.org/) auf Basis von [Open Source](https://opensource.org/osd). 
 
@@ -39,15 +39,17 @@ Berücksichtigung des gesunden Menschenverstandes agierenden Mitglieder.
 * die Bereitschaft diese, soweit dies notwendig ist, im Rahmen der angestrebten Staatsmodernisierung in einer geeigneten Weise konstruktiv und behutsam fortzuentwickeln und
 * selbstverständlich fundierte Kenntnisse zum Stand der Technik und Wissenschaft im Bereich der Informationstechnologie.
 
-Die gesuchten Architekt:innen (m,w,d) sollten die folgenden **persönlichen Eigenschaften** einbringen:    
+Die gesuchten Architekt:innen (m,w,d) dürfen gerne die folgenden **persönlichen Eigenschaften** mitbringen:    
 
 * Agilität,
 * Kreativität,
 * Pragmatismus,
 * Offenheit,
-* Inklusivität hinsichtlich aller gesellschaftlichen und staatliche Akteure, 
+* Inklusivität, hinsichtlich aller gesellschaftlichen und staatliche Akteure, 
 * Mut und Bereitschaft zur Veränderung sowie eine 
 * geeignete Fehler-, Kooperations- und Kommunikationskultur. 
+
+## Ausgangslage
 
 Auf Basis der bisherigen Vorüberlegungen zum **[Deutschland-Stack](https://www.schleswig-holstein.de/DE/landesregierung/themen/digitalisierung/digitalisierung-zukunftsthema/_documents/impulspapier_deutschland-stack.pdf?__blob=publicationFile&v=2)** 
 gehen wir aktuell davon aus, dass die folgenden drei Paradigmen bei der weiteren Ausgestaltung und späteren Umsetzung 
@@ -57,12 +59,14 @@ eine wichtige Rolle spielen könnten:
   Berücksichtigung aktueller internationaler Standards und anerkannter Praktiken unter Einsatz geeigneter
   Open Source Technologien für 
 * die Nutzung durch benutzerzentrierte **plattformübergreifende Anwendungen**, die in 
-* ganzheitlichen und vertrauenswürdigen **DevOps**-Prozessen entworfen (plan), entwickelt (code), übersetzt (build), 
-  getestet (test), in Betreib genommen (release), bereitgestellt (deploy), betrieben (operate) und überwacht (monitor) werden, um 
-* unter Einsatz geeigneter Sicherheitsmaßnahmen nach dem jeweils aktuellen **Stand der Technik** und moderner Sicherheitsparadigmen, wie z.B. **Zero Trust**, zu jeder Zeit ein nachweislich hohes Sicherheitsniveau gewährleisten zu können.
+* ganzheitlichen und vertrauenswürdigen **DevOps**-Prozessen entworfen (*plan*), entwickelt (*code*), übersetzt (*build*), 
+  getestet (*test*), in Betreib genommen (*release*), bereitgestellt (*deploy*), betrieben (*operate*) und überwacht (*monitor*) werden, um 
+* unter Einsatz geeigneter Sicherheitsmaßnahmen nach dem jeweils aktuellen **Stand der Technik** und moderner Sicherheitsparadigmen, wie z.B. **Zero Trust**, zu jeder Zeit  nachweislich ein angemessenes und somit bisweilen sehr hohes Sicherheitsniveau gewährleisten zu können.
+
+<center><img height="400" src="https://github.com/it-umsetzungsrat/it-umsetzungsrat/blob/main/img/de-stack-abstrakt.svg"/></center>
 
 Wir freuen uns aber selbstverständlich auf den konstruktiven Dialog mit Ihnen, falls Sie hier wichtige Ergänzungen
-vorschlagen möchten oder das Zielbild für den Deutschland-Stack komplett anders sehen. 
+vorschlagen möchten oder ein komplett anderes Zielbild für den Deutschland-Stack vor Augen haben.
 
 ## Kontakt für Architekt:innen 
 
