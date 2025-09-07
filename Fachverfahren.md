@@ -8,7 +8,7 @@ In seiner Rolle als zentraler Dienstleister der Bundesverwaltung schreibt das
 rund **624.810.395,58 €** aus. Die Angebotsfrist für die BVA-spezifische RV endet am 19.09.2025 und 
 die RV für IT-Dienstleistungen für die Bundesverwaltung in den Losen 1 bis 5 enden am **23.09.2025**. 
 
->Melden Sie sich gern beim [IT-Umsetzungsrat](mailto:it-ur@eid.as), falls Sie eine **persönliche Meinung**
+>Kontaktieren Sie uns gerne per [E-Mail](mailto:it-ur@eid.as), falls Sie eine **persönliche Meinung**
 >zu diesen Vergabeverfahren haben und/oder an den der hier vermutlich bald praktizierten Digitalisierung und 
 >Staatsmodernisierung **konstruktiv mitwirken** möchten.
 
@@ -172,4 +172,5 @@ Entwicklung und Pflege Fachverfahren in [Los 3](https://www.evergabe-online.de/t
 * XÖV-Standards
 * Zentrales Log-und-Analyse-Mgmt.: Splunk oder ELK Stack
 * Zephyr-Plug-In (f. JIRA)
+
 
