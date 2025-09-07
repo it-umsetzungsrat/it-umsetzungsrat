@@ -1,3 +1,5 @@
+<img align="right" height="80" src="https://github.com/it-umsetzungsrat/it-umsetzungsrat/blob/main/img/it-ur-logo.svg"/><br/></br>
+
 # Rahmenverträge für Fachverfahren
 
 In seiner Rolle als zentraler Dienstleister der Bundesverwaltung schreibt das
@@ -170,3 +172,4 @@ Entwicklung und Pflege Fachverfahren in [Los 3](https://www.evergabe-online.de/t
 * XÖV-Standards
 * Zentrales Log-und-Analyse-Mgmt.: Splunk oder ELK Stack
 * Zephyr-Plug-In (f. JIRA)
+
