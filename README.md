@@ -30,20 +30,19 @@ im Einklang mit den oben skizzierten Zielen die Regelungen des [§ 16a EGovG](ht
 sowie entsprechende Regelungen der Bundesländer, wie beispielsweise [§ 9 HmbVwDiG](https://www.landesrecht-hamburg.de/bsha/document/jlr-VwDiGHApP9), [§ 7 EGovG (SH)](https://www.gesetze-rechtsprechung.sh.juris.de/bssh/document/jlr-EGovGSH2009V4P7) 
 und [§ 4 ThürEGovG](https://landesrecht.thueringen.de/bsth/document/jlr-EGovGTHpP4) erwähnenswert.    
 
-## Aktuelle Aktivitäten  
+## Aktuell im Fokus: Die Architektur des Deutschland-Stack
 
-Ergänzend zu den vornehmlich international ausgerichteten Aktivitäten im Umfel der [EU-Business-Wallet Initiative](https://github.com/eu-business-wallet) 
-fokussiert sich der IT-Umsetzungsrat aktuell vor allem auf die architektonische Ausgestaltung und später auf die konstruktive Umsetzung des 
-**[Deutschland-Stack](https://www.schleswig-holstein.de/DE/landesregierung/themen/digitalisierung/digitalisierung-zukunftsthema/_documents/impulspapier_deutschland-stack.pdf?__blob=publicationFile&v=2)** 
-in enger Abstimmung mit den Expertinnen und Experten des [Bundesministeriums für Digitales und Staatsministerium](https://bmds.bund.de/), 
-der [Föderalen IT-Kooperation](https://www.fitko.de/) und des [IT-Planungsrates](https://www.it-planungsrat.de/).
+Ergänzend zu den vornehmlich international ausgerichteten Aktivitäten im Umfeld der [EU-Business-Wallet Initiative](https://github.com/eu-business-wallet) 
+konzentriert sich der IT-Umsetzungsrat in enger Abstimmung mit den Expertinnen und Experten des [Bundesministeriums für Digitales und Staatsministerium](https://bmds.bund.de/), 
+der [Föderalen IT-Kooperation](https://www.fitko.de/) und des [IT-Planungsrates](https://www.it-planungsrat.de/) aktuell vor allem auf die architektonische Ausgestaltung und später auf die konstruktive Umsetzung des 
+**[Deutschland-Stack](https://www.schleswig-holstein.de/DE/landesregierung/themen/digitalisierung/digitalisierung-zukunftsthema/_documents/impulspapier_deutschland-stack.pdf?__blob=publicationFile&v=2)** entlang der nachfolgenden Architekturskizze. 
 
-## Wir suchen mehrere Architekt:innen der Staatsmodernisierung (m,w,d)
+<img align="center" height="80" src="https://github.com/it-umsetzungsrat/it-umsetzungsrat/blob/main/img/de-stack-abstrakt.svg"/><br/></br>
 
->Beachten Sie bitte in diesem Zusammenhang insbesondere auch den aktuellen Aufruf zur konstruktiven
->Mitwirkung im IT-Umsetzungsrate für **[Architekten der Staatsmodernisierung (m,w,d)](https://github.com/it-umsetzungsrat/it-umsetzungsrat/blob/main/Architekten.md)**. 
+## Hierfür suchen wir aktuell mehrere Architekt:innen der Staatsmodernisierung (m,w,d)
 
-![Deutschland-Stack-Skizze](/img/DE-Stack-abstrakt.svg) 
+>Beachten Sie bitte in diesem Zusammenhang insbesondere auch den aktuellen **Aufruf zur konstruktiven Mitwirkung**
+>im IT-Umsetzungsrat für **[Architekten der Staatsmodernisierung (m,w,d)](https://github.com/it-umsetzungsrat/it-umsetzungsrat/blob/main/Architekten.md)**. 
 
 Wir freuen uns bereits jetzt auf den Austausch mit Ihnen!    
 
