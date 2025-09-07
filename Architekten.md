@@ -1,4 +1,4 @@
-<img align="right" height="100" src="https://github.com/it-umsetzungsrat/it-umsetzungsrat/blob/main/img/it-ur-logo.svg"/><br/>
+<img align="right" height="80" src="https://github.com/it-umsetzungsrat/it-umsetzungsrat/blob/main/img/it-ur-logo.svg"/><br/>
 
 # Mehrere Architekt:innen der Staatsmodernisierung (m,w,d)
 
@@ -17,7 +17,7 @@ braucht es gemeinsame Werte, Prinzipien, Strategien, offene [Standards](http://d
 benutzerfreundliche sowie barrierefreie Lösungen nach dem jeweiligen Stand der Technik mit offenen 
 [Schnittstellen](https://www.openapis.org/) auf Basis von [Open Source](https://opensource.org/osd). 
 
-Der **[IT-Umsetzungsrat](https//gitlab.com/it-umsetzungsrat)** ist eine Initiative des [go.eIDAS e.V.](https://go.eid.as/de) zur konstruktiven 
+Der **[IT-Umsetzungsrat](https://github.com/it-umsetzungsrat/it-umsetzungsrat/blob/main/README.md)** ist eine Initiative des [go.eIDAS e.V.](https://go.eid.as/de) zur konstruktiven 
 Unterstützung der **Digitalisierung und Staatsmodernisierung der Bundesrepublik Deutschland** unter 
 Berücksichtigung der oben genannten Aspekte und internationaler Perspektiven. 
 Dies umfasst insbesondere die geeignete Unterstützung der relevanten Akteure beim Bund, in den Ländern, in den Kommunen, 
@@ -32,7 +32,7 @@ Berücksichtigung des gesunden Menschenverstandes agierenden Mitglieder.
 
 ## Anforderungsprofil
 
-**Zusätzlich** zu den aktuell bei [Fachverfahren](https://github.com/it-umsetzungsrat/it-umsetzungsrat/Fachverfahren.md) gewünschten Kenntnisse und Erfahrungen erwarten wir insbesondere  
+**Zusätzlich** zu den aktuell bei [Fachverfahren](https://github.com/it-umsetzungsrat/it-umsetzungsrat/blob/main/Fachverfahren.md) gewünschten Kenntnisse und Erfahrungen erwarten wir insbesondere  
 
 * ein klares Bekenntnis zu offenen Standards, offenen Schnittstellen und Open Source, 
 * die Kenntnis einschlägiger regulatorischer Rahmenbedingungen und staatstragenden Mechanismen in Deutschland und Europa,
