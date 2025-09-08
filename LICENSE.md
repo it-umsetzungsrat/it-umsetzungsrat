@@ -2,7 +2,7 @@
 
 # Lizenz
 
-Die Dokumente des vom go.eIDAS e.V. koordinierten IT-Umsetzungsrates sind gemäß [CC BY 4.0 (Creative Commons Namensnennung 4.0 International)](https://creativecommons.org/licenses/by/4.0/legalcode.de) lizensiert.
+Die Dokumente des vom [go.eIDAS e.V.](https://go.eID.AS/de) koordinierten IT-Umsetzungsrates sind gemäß [CC BY 4.0 (Creative Commons Namensnennung 4.0 International)](https://creativecommons.org/licenses/by/4.0/legalcode.de) lizensiert.
 
 
 
