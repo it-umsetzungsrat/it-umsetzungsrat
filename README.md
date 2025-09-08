@@ -48,5 +48,6 @@ konzentriert sich der IT-Umsetzungsrat aktuell in enger Abstimmung mit den Exper
 ## Kontakt
 
 Nehmen Sie gerne mit uns Kontakt auf, indem Sie entweder 
-* hier ein Ticket eröffnen oder 
+* hier ein Ticket eröffnen,
+* uns im [Internet](https://it-umsetzungsrat.de) oder bei [LinkedIn](https://www.linkedin.com/company/71253693/) besuchen oder 
 * uns einfach eine kurze [E-Mail](mailto:it-ur@eID.AS) senden.
