@@ -6,7 +6,7 @@ Für den tragfähigen Entwurf und die nachfolgende Umsetzung des **[Deutschland-
 suchen wir zum nächstmöglichen Zeitpunkt mehrere engagierte **Architektinnen und Architekten der Staatsmodernisierung (m,w,d)**.  
 
 * **Ort:** Beliebiger Ort (Remote)
-* **Bewerbungsfrist:** Es wird eine **möglichst umgehende** Interessensbekundung, gerne bis zum **17.09.2025**, erbeten.
+* **Bewerbungsfrist:** Es wird eine **möglichst umgehende** Interessensbekundung, gerne bis zum **05.10.2025**, erbeten.
 * **Vergütung:** Im IT-Umsetzungsrat wird die grundsätzliche Bereitschaft zur Erbringung **ehrenamtlicher Leistungen** 
 vorausgesetzt. Mittelfristig wird eine angemessene Aufwandsentschädigung für die buchstäblich unbezahlbaren Leistungen angestrebt.  
 
