@@ -5,8 +5,7 @@
 In seiner Rolle als zentraler Dienstleister der Bundesverwaltung schreibt das
 [Bundesverwaltungsamt](https://www.bva.bund.de/) (BVA) derzeit Rahmenvereinbarungen (RV) im Bereich
 [Fachverfahren](https://tinyurl.com/Fachverfahren) mit einem Gesamtwert von insgesamt 
-rund **624.810.395,58 €** aus. Die Angebotsfrist für die BVA-spezifische RV endet am 19.09.2025 und 
-die RV für IT-Dienstleistungen für die Bundesverwaltung in den Losen 1 bis 5 enden am **23.09.2025**. 
+rund **624.810.395,58 €** aus. Die Angebotsfrist für die verschiedenen Rahmenvereinbarungen endet am **10.10.2025**. 
 
 >Kontaktieren Sie uns gerne per [E-Mail](mailto:it-ur@eid.as), falls Sie eine **persönliche Meinung**
 >zu diesen Vergabeverfahren haben und/oder an der hier vermutlich bald effizient praktizierten Digitalisierung und 
@@ -172,6 +171,7 @@ Entwicklung und Pflege Fachverfahren in [Los 3](https://www.evergabe-online.de/t
 * XÖV-Standards
 * Zentrales Log-und-Analyse-Mgmt.: Splunk oder ELK Stack
 * Zephyr-Plug-In (f. JIRA)
+
 
 
 
